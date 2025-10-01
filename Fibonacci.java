@@ -1,4 +1,4 @@
-class fibonacci{
+class           b b. fibonacci{
   public static void main(String[]abc){
     int firstTerm=0;
     int secondTerm=1;
