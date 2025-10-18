@@ -1,4 +1,4 @@
-class fibonacci{.     b. VC. bhn.  nn. 
+class fibonacci{.     b. VC. bhn.  
   public static void main(String[]abc){
     int firstTerm=0;
     int secondTerm=1;
