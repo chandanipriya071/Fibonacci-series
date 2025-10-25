@@ -1,6 +1,6 @@
 
 
-gh.  cc. jj. vg.  gf. bb. ch 
+gh.  cc. jj. vg.  gf. bb
 
 
 class fibonacci{
