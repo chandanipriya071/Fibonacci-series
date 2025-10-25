@@ -1,7 +1,6 @@
 
 
-gh.  cc. jj. v
-
+gh.  cc. 
 
 class fibonacci{
   public static void main(String[]abc){
