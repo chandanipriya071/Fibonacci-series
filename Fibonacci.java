@@ -1,6 +1,6 @@
 
 
-cnn. k.  cf. jn. gyb 
+cnn. k.  cf. jn.
 
 
 class fibonacci{
