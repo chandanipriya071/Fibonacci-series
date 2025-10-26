@@ -1,6 +1,6 @@
 
 
-cnn. k.
+cn
 
 
 class fibonacci{
