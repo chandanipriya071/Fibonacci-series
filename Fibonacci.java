@@ -1,7 +1,7 @@
 
 
 
-CV n. CG. 
+CV n
 
 
 
