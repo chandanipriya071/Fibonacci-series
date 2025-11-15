@@ -2,7 +2,7 @@
 
 
 
-f jb nn vg n k. df. n
+f jb nn vg n k.
 
 
 
