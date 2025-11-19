@@ -1,4 +1,13 @@
 
+
+
+gh nn gg n b. v nn. CF. m. vg n. 
+
+
+
+
+
+
 class fibonacci{
   public static void main(String[]abc){
     int firstTerm=0;
