@@ -1,9 +1,7 @@
 
 
 
-gh nn gg n 
-
-
+gh nn g
 
 
 
