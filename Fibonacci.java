@@ -1,8 +1,7 @@
 
 
 
-gh nn gg n b. v n
-
+gh nn gg n 
 
 
 
