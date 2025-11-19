@@ -1,7 +1,7 @@
 
 
 
-gh nn gg n b. v nn. CF. 
+gh nn gg n b. v n
 
 
 
