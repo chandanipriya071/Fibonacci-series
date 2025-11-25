@@ -1,4 +1,12 @@
 
+
+
+v m. cv n bh n BB f n v BB n vg m 
+
+
+
+
+
 class fibonacci{
   public static void main(String[]abc){
     int firstTerm=0;
