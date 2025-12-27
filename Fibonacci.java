@@ -2,8 +2,7 @@
 
 
 
-SD d CVV code in Bible Verse to the sa
-
+SD d CVV code in Bible Verse 
 
 
 
