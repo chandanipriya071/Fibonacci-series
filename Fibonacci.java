@@ -2,8 +2,7 @@
 
 
 
-SD d CVV code in Bible Verse 
-
+SD d CVV code in Bi
 
 
 
