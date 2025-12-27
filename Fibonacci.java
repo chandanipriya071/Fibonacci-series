@@ -2,7 +2,7 @@
 
 
 
-SD d CVV code in Bible Verse to the same person who is the 
+SD d CVV code in Bible Verse to the same person who
 
 
 
