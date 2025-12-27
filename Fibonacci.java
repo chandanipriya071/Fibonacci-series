@@ -2,8 +2,7 @@
 
 
 
-SD d CVV c
-
+SD d
 
 class fibonacci{
   public static void main(String[]abc){
