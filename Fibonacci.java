@@ -1,7 +1,7 @@
 
 
 
-eggs and ham log ko si
+eggs and ham l
 
 
 
