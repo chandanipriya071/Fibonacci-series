@@ -1,8 +1,6 @@
 
 
 
-
-
 class fibonacci{
   public static void main(String[]abc){
     int firstTerm=0;
